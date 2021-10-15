@@ -1,0 +1,17 @@
+{
+	"category" : "MSKZeroMQWrapper",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"lastFrame",
+		"telegram",
+		"data",
+		"extSocket" ],
+	"name" : "ZMQGeneralFrame",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

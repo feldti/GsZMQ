@@ -1,0 +1,14 @@
+{
+	"category" : "MSKZeroMQWrapper",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ZMQTextFrame",
+	"pools" : [
+		 ],
+	"super" : "ZMQGeneralFrame",
+	"type" : "normal" }

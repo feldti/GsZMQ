@@ -1,0 +1,19 @@
+{
+	"category" : "MSKZeroMQWrapper",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"timestampSend",
+		"identityInformation",
+		"counter",
+		"frames",
+		"extSocket",
+		"receivedTelegram" ],
+	"name" : "ZMQTelegram",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

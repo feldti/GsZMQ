@@ -1,0 +1,19 @@
+{
+	"category" : "MSKZeroMQWrapper",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"process",
+		"extSocket",
+		"delegate",
+		"receiveBlock",
+		"closeFlag",
+		"debugFlag" ],
+	"name" : "ZMQGeneralServer",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

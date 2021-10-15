@@ -1,0 +1,18 @@
+{
+	"category" : "MSKZeroMQWrapper",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"announcer",
+		"zmqContext",
+		"contextName",
+		"extendedSockets",
+		"interfaceClass" ],
+	"name" : "ZMQExtendedContext",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

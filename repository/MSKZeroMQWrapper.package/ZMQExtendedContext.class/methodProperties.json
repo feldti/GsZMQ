@@ -1,0 +1,22 @@
+{
+	"class" : {
+		"createContextNamed:" : "MSK 06/03/2014 02:55" },
+	"instance" : {
+		"announcer" : "MSK 06/03/2014 02:55",
+		"announcer:" : "MSK 06/03/2014 02:55",
+		"contextName" : "MSK 06/03/2014 02:55",
+		"contextName:" : "MSK 06/03/2014 02:55",
+		"createSocketOfType:" : "MSK 06/04/2014 04:29",
+		"extendedSockets" : "MSK 06/03/2014 02:55",
+		"extendedSockets:" : "MSK 06/03/2014 02:55",
+		"initialize" : "MSK 06/03/2014 02:55",
+		"interfaceClass" : "MSK 06/03/2014 02:55",
+		"interfaceClass:" : "MSK 06/03/2014 02:55",
+		"newMessageFrame" : "MSK 06/03/2014 02:59",
+		"newReplySocket:" : "MSK 06/03/2014 02:55",
+		"newRequestSocket:" : "MSK 06/04/2014 11:52",
+		"numberOfThreads" : "MSK 06/04/2014 04:12",
+		"start:" : "MSK 06/04/2014 04:08",
+		"terminate" : "MSK 06/04/2014 04:15",
+		"zmqContext" : "MSK 06/03/2014 02:55",
+		"zmqContext:" : "MSK 06/03/2014 02:55" } }

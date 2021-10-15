@@ -1,0 +1,14 @@
+{
+	"category" : "MSKZeroMQGemstone",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MSKZeroMQLibV2",
+	"pools" : [
+		 ],
+	"super" : "MSKZeroMQGeneralLibrary",
+	"type" : "normal" }

@@ -1,0 +1,15 @@
+{
+	"category" : "MSKZeroMQWrapper",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"server",
+		"telegram" ],
+	"name" : "ZMQGeneralDelegate",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

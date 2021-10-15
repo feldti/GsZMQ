@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"close" : "MSK 02/04/2014 21:25",
+		"generalServerErrorTelegram" : "MSK 02/04/2014 21:26",
+		"handleFrame:" : "MSK 02/04/2014 18:58",
+		"handleTelegram:" : "MSK 02/04/2014 18:58",
+		"server" : "MSK 02/04/2014 18:30",
+		"server:" : "MSK 02/04/2014 18:30",
+		"telegram" : "MSK 02/04/2014 18:32",
+		"telegram:" : "MSK 02/04/2014 18:30" } }

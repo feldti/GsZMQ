@@ -1,0 +1,27 @@
+{
+	"class" : {
+		"mskErrorTelegram:" : "MSK 02/01/2018 11:11",
+		"mskLogTelegram:" : "MSK 02/01/2018 11:12",
+		"mskWarnTelegram:" : "MSK 02/01/2018 11:12",
+		"msklogTelegram:level:" : "MSK 02/01/2018 11:00",
+		"newInitialized" : "MSK 06/07/2016 01:09",
+		"newOnSocket:" : "MSK 06/03/2014 02:50" },
+	"instance" : {
+		"addAll:" : "MSK 02/04/2014 21:42",
+		"addFrame:" : "MSK 02/04/2014 21:42",
+		"counter" : "MSK 02/04/2014 21:42",
+		"counter:" : "MSK 02/04/2014 21:42",
+		"extSocket" : "MSK 02/04/2014 21:42",
+		"extSocket:" : "MSK 02/04/2014 21:42",
+		"finish" : "MSK 02/04/2014 21:42",
+		"frames" : "MSK 02/04/2014 21:42",
+		"frames:" : "MSK 02/04/2014 21:42",
+		"identityInformation" : "MSK 02/04/2014 21:42",
+		"identityInformation:" : "MSK 02/04/2014 21:42",
+		"initialize" : "MSK 06/03/2014 05:23",
+		"receivedTelegram" : "MSK 02/04/2014 21:42",
+		"receivedTelegram:" : "MSK 02/04/2014 21:42",
+		"sendTelegram" : "MSK 06/04/2014 12:03",
+		"setNow" : "MSK 02/04/2014 21:42",
+		"timestampSend" : "MSK 02/04/2014 21:42",
+		"timestampSend:" : "MSK 02/04/2014 21:42" } }

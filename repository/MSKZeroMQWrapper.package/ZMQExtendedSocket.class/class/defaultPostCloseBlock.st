@@ -1,0 +1,4 @@
+default blocks
+defaultPostCloseBlock
+
+	^[ :extSocket  | ]

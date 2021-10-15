@@ -1,0 +1,15 @@
+{
+	"category" : "MSKZeroMQWrapper",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"extendedContext",
+		"zmqMessage" ],
+	"name" : "ZMQMessageFrame",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

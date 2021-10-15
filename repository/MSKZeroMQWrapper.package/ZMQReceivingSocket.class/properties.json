@@ -1,0 +1,14 @@
+{
+	"category" : "MSKZeroMQWrapper",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ZMQReceivingSocket",
+	"pools" : [
+		 ],
+	"super" : "ZMQExtendedSocket",
+	"type" : "normal" }

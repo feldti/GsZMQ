@@ -1,0 +1,26 @@
+{
+	"category" : "MSKZeroMQWrapper",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"zmqSocket",
+		"extendedContext",
+		"preOpenBlock",
+		"postOpenBlock",
+		"preCloseBlock",
+		"postCloseBlock",
+		"preSendBlock",
+		"postSendBlock",
+		"receiveBlock",
+		"postReceiveBlock",
+		"configOptions",
+		"closeFlag",
+		"domainObject" ],
+	"name" : "ZMQExtendedSocket",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

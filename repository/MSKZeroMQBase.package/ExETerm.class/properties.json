@@ -1,0 +1,14 @@
+{
+	"category" : "MSKZeroMQBase",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ExETerm",
+	"pools" : [
+		 ],
+	"super" : "ExZMQ",
+	"type" : "normal" }

@@ -1,0 +1,23 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"closeDelegate" : "MSK 02/04/2014 21:25",
+		"closeFlag" : "MSK 02/04/2014 21:14",
+		"closeFlag:" : "MSK 02/04/2014 21:14",
+		"debugFlag" : "MSK 02/04/2014 21:14",
+		"debugFlag:" : "MSK 02/04/2014 21:14",
+		"delegate" : "MSK 02/04/2014 21:14",
+		"delegate:" : "MSK 02/04/2014 21:14",
+		"extSocket" : "MSK 02/04/2014 21:14",
+		"extSocket:" : "MSK 02/04/2014 21:14",
+		"initialize" : "MSK 02/04/2014 21:14",
+		"isRunning" : "MSK 02/04/2014 21:20",
+		"listenLoop" : "MSK 02/04/2014 21:40",
+		"process" : "MSK 02/04/2014 21:15",
+		"process:" : "MSK 02/04/2014 21:15",
+		"receiveBlock" : "MSK 02/04/2014 21:14",
+		"receiveBlock:" : "MSK 02/04/2014 21:14",
+		"serverProcessName" : "MSK 02/04/2014 21:18",
+		"start" : "MSK 02/04/2014 21:17",
+		"stop" : "MSK 02/04/2014 21:28" } }

@@ -1,0 +1,15 @@
+{
+	"category" : "MSKZeroMQBase",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"errorNumber",
+		"errorString" ],
+	"name" : "ExZMQ",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }

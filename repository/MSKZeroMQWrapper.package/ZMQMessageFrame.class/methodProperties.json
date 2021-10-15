@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"newMessage" : "MSK 06/03/2014 02:54" },
+	"instance" : {
+		"asBinaryTelegramFrame" : "MSK 06/03/2014 05:20",
+		"asStringTelegramFrame" : "MSK 06/03/2014 02:54",
+		"asTelegramFrame" : "MSK 06/03/2014 02:54",
+		"close" : "MSK 06/03/2014 05:50",
+		"data" : "MSK 06/03/2014 03:45",
+		"extendedContext" : "MSK 06/03/2014 02:54",
+		"extendedContext:" : "MSK 06/03/2014 02:54",
+		"init" : "MSK 06/03/2014 03:45",
+		"interfaceClass" : "MSK 06/03/2014 03:45",
+		"size" : "MSK 06/03/2014 03:45",
+		"zmqMessage" : "MSK 06/03/2014 02:54",
+		"zmqMessage:" : "MSK 06/03/2014 02:54" } }

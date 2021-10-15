@@ -1,0 +1,4 @@
+*MSKZeroMQGemstone-Extensions
+zmqSocket
+
+	^self

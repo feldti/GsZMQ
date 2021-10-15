@@ -1,0 +1,4 @@
+*MSKZeroMQGemstone-Extensions
+zmqContext
+
+	^self

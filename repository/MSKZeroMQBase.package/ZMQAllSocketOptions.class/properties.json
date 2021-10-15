@@ -1,0 +1,16 @@
+{
+	"category" : "MSKZeroMQBase",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"endpoint",
+		"doBind",
+		"options" ],
+	"name" : "ZMQAllSocketOptions",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,33 @@
+{
+	"category" : "MSKZeroMQGemstone",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"lcBind",
+		"lcClose",
+		"lcConnect",
+		"lcErrNo",
+		"lcGetSocketOption",
+		"lcInit",
+		"lcMsgClose",
+		"lcMsgData",
+		"lcMsgInit",
+		"lcMsgInitSize",
+		"lcMsgSize",
+		"lcPoll",
+		"lcRecv",
+		"lcSend",
+		"lcSetSocketOption",
+		"lcSocket",
+		"lcStrError",
+		"lcTerm",
+		"lcVersion",
+		"version" ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MSKZeroMQGeneralLibrary",
+	"pools" : [
+		 ],
+	"super" : "MSKExternalLibraryInterface",
+	"type" : "normal" }

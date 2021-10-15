@@ -1,0 +1,2 @@
+support frames
+handleTelegram: aZMQTelegram

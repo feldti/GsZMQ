@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"newEmpty" : "MSK 02/04/2014 21:41",
+		"newWithData:" : "MSK 02/04/2014 21:41" },
+	"instance" : {
+		"data" : "MSK 02/04/2014 21:41",
+		"data:" : "MSK 02/04/2014 21:41",
+		"extSocket" : "MSK 02/04/2014 21:43",
+		"extSocket:" : "MSK 02/04/2014 21:41",
+		"initialize" : "MSK 02/04/2014 21:41",
+		"interfaceClass" : "MSK 06/02/2014 11:21",
+		"lastFrame" : "MSK 02/04/2014 21:41",
+		"lastFrame:" : "MSK 02/04/2014 21:41",
+		"send" : "MSK 06/04/2014 12:09",
+		"telegram" : "MSK 02/04/2014 21:41",
+		"telegram:" : "MSK 02/04/2014 21:41" } }

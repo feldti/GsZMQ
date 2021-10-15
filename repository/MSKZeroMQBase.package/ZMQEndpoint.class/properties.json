@@ -1,0 +1,17 @@
+{
+	"category" : "MSKZeroMQBase",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"protocol",
+		"multicastAddress",
+		"port",
+		"interfaceAddress" ],
+	"name" : "ZMQEndpoint",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

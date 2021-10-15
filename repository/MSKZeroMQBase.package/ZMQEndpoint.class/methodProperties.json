@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"emptyEndpoint" : "MSK 12/20/2013 12:45",
+		"protocol:interface:multicast:port:" : "MSK 12/20/2013 12:45",
+		"protocol:interface:port:" : "MSK 12/20/2013 12:45" },
+	"instance" : {
+		"fullAddressString" : "MSK 12/20/2013 12:46",
+		"interfaceAddress" : "MSK 12/20/2013 12:16",
+		"interfaceAddress:" : "MSK 12/20/2013 12:16",
+		"multicastAddress" : "MSK 12/20/2013 12:16",
+		"multicastAddress:" : "MSK 12/20/2013 12:16",
+		"port" : "MSK 12/20/2013 12:16",
+		"port:" : "MSK 12/20/2013 12:16",
+		"protocol" : "MSK 12/20/2013 12:16",
+		"protocol:" : "MSK 12/20/2013 12:16" } }
