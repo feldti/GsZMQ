@@ -1,0 +1,15 @@
+{
+	"category" : "BaselineOfZMQ",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Lf",
+		"Tab" ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfZMQ",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
