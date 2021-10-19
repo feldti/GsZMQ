@@ -28,8 +28,6 @@ cd
 rm -rf zeromq-4.1.6
 ```
 
-with these external programs you may create images containing QR codes and you may even read image files to get the content out of the QR code.
-
 ## Installation
 
 You can load GsZMQ using Metacello
