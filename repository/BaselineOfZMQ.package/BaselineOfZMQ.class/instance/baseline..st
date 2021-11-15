@@ -15,13 +15,13 @@ baseline: spec
 
 			"Now the actual delivered packages"
 			spec
-				package: 'MSKZeroMQGemstone';
+				package: 'MSKZeroMQGemstone'  with: [ spec requires: #('MSKPlatformExtension') ] ;
 				package: 'MSKZeroMQBase' with: [ spec requires: #('MSKZeroMQGemstone') ] ;
 				package: 'MSKZeroMQWrapper' with: [ spec requires: #('MSKZeroMQBase') ] ;
 				yourself.
 
 			"Now the names for more specific loading"
 			spec
-				group: 'default' with: #('MSKZeroMQGemstone' 'MSKZeroMQBase' 'MSKZeroMQWrapper');
+				group: 'default' with: #('MSKZeroMQWrapper');
 				yourself
 		]
