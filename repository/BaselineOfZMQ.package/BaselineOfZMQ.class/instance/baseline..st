@@ -24,7 +24,7 @@ baseline: spec
 
 			"Now the actual delivered packages"
 			spec
-				package: 'MSKZeroMQGemstone'  with: [ spec requires: #('MSKPlatformExtension' 'MSKExtensions') ] ;
+				package: 'MSKZeroMQGemstone'  with: [ spec requires: #('MSKPlatformExtension' 'MSKExtension') ] ;
 				package: 'MSKZeroMQBase' with: [ spec requires: #('MSKZeroMQGemstone') ] ;
 				package: 'MSKZeroMQWrapper' with: [ spec requires: #('MSKZeroMQBase') ] ;
 				yourself.
