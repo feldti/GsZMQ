@@ -18,13 +18,13 @@ baseline: spec
 				baseline: 'MSKExtension'	
 				with: [ 
 					spec
-						loads: #('MSKExtension');
+						loads: #('MSKExtensions');
 						repository: 'github://feldti/MSKExtension:main/repository' ];				
 				yourself.
 
 			"Now the actual delivered packages"
 			spec
-				package: 'MSKZeroMQGemstone'  with: [ spec requires: #('MSKPlatformExtension' 'MSKExtension') ] ;
+				package: 'MSKZeroMQGemstone'  with: [ spec requires: #('MSKPlatformExtension' 'MSKExtensions') ] ;
 				package: 'MSKZeroMQBase' with: [ spec requires: #('MSKZeroMQGemstone') ] ;
 				package: 'MSKZeroMQWrapper' with: [ spec requires: #('MSKZeroMQBase') ] ;
 				yourself.
